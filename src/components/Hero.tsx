@@ -28,16 +28,18 @@ const Hero = () => {
       <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in">
-            Dr. Verma Skin Clinic,{" "}
+            Dr. Verma's Skin Clinic,{" "}
             <span className="bg-gradient-primary bg-clip-text text-transparent">
               Closer to You
             </span>
           </h1>
           
-          <p className="text-lg sm:text-xl text-muted-foreground mb-10 max-w-2xl mx-auto animate-fade-in" style={{ animationDelay: '0.2s' }}>
-            Experience premium healthcare at two convenient locations. 
-            Our dedicated team provides compassionate, professional care 
-            tailored to your needs.
+          <p className="text-lg sm:text-xl text-muted-foreground mb-10 max-w-2xl mx-auto animate-fade-in"
+            style={{ animationDelay: '0.2s' }}
+          >
+            Experience premium healthcare at two convenient locations.
+            <br />
+            Our dedicated team provides compassionate, professional care tailored to your needs.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in" style={{ animationDelay: '0.4s' }}>

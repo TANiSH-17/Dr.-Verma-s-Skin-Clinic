@@ -62,7 +62,7 @@ const SocialSection = () => {
         className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white hover:opacity-90 mt-auto"
         asChild
       >
-        <span>Join Group</span>
+        <span>Chat with us</span>
       </Button>
     </div>
   </a>
