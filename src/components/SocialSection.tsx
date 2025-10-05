@@ -45,7 +45,7 @@ const SocialSection = () => {
 
   {/* WhatsApp Community */}
   <a
-    href="https://wa.me/919899242414" 
+    href="https://wa.me/919810456787" 
     target="_blank"
     rel="noopener noreferrer"
     className="block focus:outline-none focus:ring-2 focus:ring-primary rounded-2xl transition-transform duration-300 hover:scale-[1.02]"
